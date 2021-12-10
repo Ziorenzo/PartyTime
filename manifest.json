@@ -1,0 +1,16 @@
+{
+    "name": "PartyTime",
+
+    "short_name": "PT",
+  
+    "lang": "IT",
+
+    "start_url": "index.html",
+  
+    "display": "standalone",
+  
+    "background_color": "white",
+  
+    "theme_color": "white"
+
+  }
