@@ -4,6 +4,7 @@ body{
     font-family: sans-serif;
     background: #b6d4f1;
 }
+
 .box{
     width: 400px;
     padding: 40px;
@@ -38,7 +39,7 @@ body{
 }
 .box input[type= "text"]:focus,.box input[type = "password"]:focus,.box input[type = "email"]:focus{
     width: 80%;
-    border-color: aqua;
+    border-color: rgb(238, 255, 0);
 }
 .box input[type= "submit"]{
     border: 0;
@@ -76,4 +77,7 @@ body{
 }
 .box input[type = "button"]:hover{
     background: #7c0c3c;
+}
+#nav :hover{
+    color: yellow;
 }
