@@ -1,9 +1,14 @@
+
 body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
     background: #b6d4f1;
 }
+main {
+    margin-left: 5rem;
+    padding: 1rem;
+  }
 
 .box{
     width: 400px;
@@ -12,7 +17,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background:#191919;
+    background:#000000;
     text-align: center;
     border-radius: 10%;
 }
@@ -79,6 +84,5 @@ body{
 .box input[type = "button"]:hover{
     background: #7c0c3c;
 }
-#nav :hover{
-    color: yellow;
-}
+
+

@@ -1,32 +1,32 @@
-window.onload = () => {​
+window.onload = () => {
 
-    'use strict';​
+    'use strict';
 
-​
 
-    if ('serviceWorker' in navigator) {​
 
-        navigator.serviceWorker​
+    if ('serviceWorker' in navigator) {
 
-            .register('./sw.js').then(function (registration) {​
+        navigator.serviceWorker
 
-                ​
+            .register('./sw.js').then(function (registration) {
+
+                
 
             // Service worker registered correctly.​
 
-            console.log('ServiceWorker registration successful with scope: ', registration.scope);​
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
 
-        }, ​
-        function (err) {​
+        }, 
+        function (err) {
 
-            ​
+            
 
         // Troubles in registering the service worker. :(​
 
-        console.log('ServiceWorker registration failed: ', err);​
+        console.log('ServiceWorker registration failed: ', err);
 
-    });​
+    });
 
-}​
+}
 
-}​
+}
