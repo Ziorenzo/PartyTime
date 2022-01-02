@@ -78,11 +78,13 @@ main {
     transition: 0.25s;
     cursor: pointer;
 }
+
 .box input[type = "submit"]:hover{
     background: #30ac25;
 }
 .box input[type = "button"]:hover{
     background: #7c0c3c;
 }
+
 
 
