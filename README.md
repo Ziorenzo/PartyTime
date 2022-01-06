@@ -1,8 +1,11 @@
-# PartyTimme
+# PartyTime
 
 
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+## Tecnologie
+Il progetto e' stato creato con:
+* Mysql
+* Python
+* JavaScript
+* HTML
+* Css
+* Flask
