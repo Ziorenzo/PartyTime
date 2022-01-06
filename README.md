@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to PartyTime 👋</h1> <img src="PartyTime/images/logo.jpg" alt=""  width="30" height="30" style="border-radius: 50%;">
+<h1 align="center">Welcome to PartyTime 👋</h1> <img src="PartyTime/images/logo.jpg" alt=""  width="40" height="40" style="border-radius: 50%;">
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
