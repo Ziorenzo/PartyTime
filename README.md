@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to PartyTime 👋</h1>
+<h1 align="center">Welcome to PartyTime 👋</h1> <img src="PartyTime/images/logo.jpg" alt="">
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -36,11 +36,3 @@ Give a ⭐️ if this project helped you!
 
 
 
-## Tecnologie
-Il progetto e' stato creato con:
-* Mysql
-* Python
-* JavaScript
-* HTML
-* Css
-* Flask
