@@ -13,7 +13,7 @@
 
 ## Tecnologie
 Il progetto e' stato creato con:
-* Mysql
+* SqlAlchemy
 * Python
 * JavaScript
 * HTML
