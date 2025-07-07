@@ -22,7 +22,7 @@ Il progetto e' stato creato con:
 
 ## Author
 
-👤 **Giuseppe Marano Renzo Cerqua Simone Liccardo Fabio Salese**
+👤 **Giuseppe Marano Crescenzo Cerqua Simone Liccardo Fabio Salese**
 
 * Github: [@KacchanEye](https://github.com/KacchanEye)
 
